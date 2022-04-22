@@ -1,5 +1,5 @@
 # Pong
-<img src="./screenshots/pong-screenshot.png">
+
 
 
 
@@ -21,6 +21,10 @@ Pong game created with Processing, a Java library for creative coding.
 
 W,S & mouse
 
+
+## Screenshots
+
+<img src="./screenshots/pong-screenshot.png">
 
 
 ## License
