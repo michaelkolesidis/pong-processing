@@ -1,10 +1,16 @@
-# Pong Processing
-
+# Pong
 <img src="./screenshots/pong-screenshot.png">
 
-Pong game created with Processing
 
-Contols:
+## Technologies Used
+<a href="https://processing.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/processing/processing-2021-original.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com/en/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/java/java-original.svg" height="50px" /></a>
+
+## Description
+Pong game created with Processing, a Java library for creative coding.
+
+## Controls
 W,S & mouse
 
 
