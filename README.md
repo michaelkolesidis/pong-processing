@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img src="./pong.gif">
   <h1>Pong</h1>
 </div>
 
